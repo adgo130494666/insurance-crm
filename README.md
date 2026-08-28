@@ -92,4 +92,4 @@ live demo above to see it populated.
 
 ## License
 
-_Add a license before publishing._
+This project is licensed under the MIT License
