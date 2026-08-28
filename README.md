@@ -90,6 +90,12 @@ live demo above to see it populated.
 
 ---
 
-## License
+## Author
 
-This project is licensed under the MIT License
+Alejandro Gomez
+
+M.S. Candidate in Data Science
+The George Washington University
+
+Systems Analyst
+Central Bank of Paraguay
