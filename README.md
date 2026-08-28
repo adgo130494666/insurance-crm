@@ -6,6 +6,7 @@ WhatsApp workflow with one place to manage clients, policies, documents and
 renewals.
 
 **Live demo:** (https://yncsrorstcbwykr-listingadgo.adb.us-ashburn-1.oraclecloudapps.com/ords/r/seguros_demo/seguros/login)
+
 **Login:** DEMO / Paraguay2026Crm
 
 All data shown is synthetic. No real client information is included.
